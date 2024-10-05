@@ -4,7 +4,7 @@ import { FiLinkedin, FiGithub, FiMonitor } from "react-icons/fi";
 
 const HomePage = () => {
   const buttons = [
-    { label: "bagusarifarikusworo", id: 1, icon: <FiLinkedin />, link: "www.linkedin.com/in/bagusarifarikusworo" },
+    { label: "bagusarifarikusworo", id: 1, icon: <FiLinkedin />, link: "https://linkedin.com/in/bagusarifarikusworo" },
     { label: "BagusArif9", id: 2, icon: <FiGithub />, link: "https://github.com/BagusArif9" },
     { label: "Portfolio", id: 3, icon: <FiMonitor />, link: "https://port-folio-bagus-arif-s-projects.vercel.app/" },
   ];
